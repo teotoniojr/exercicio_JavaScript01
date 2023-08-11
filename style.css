@@ -5,3 +5,8 @@ html, body {
 canvas {
   display: block;
 }
+.js{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
